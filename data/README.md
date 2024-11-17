@@ -2,6 +2,9 @@
 
 ## Folders
 
+source data:
+https://www.kaggle.com/datasets/muhmores/spotify-top-100-songs-of-20152019?resource=download
+
 ### Raw
 
 Original, unmodified data after downloading, scraping, etc. 
