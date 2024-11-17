@@ -1,3 +1,12 @@
+# Data Analytics Template
+Starting template for data projects
+
+## Details
+Enter details of project
+
+## Instruction to run the application
+Input the instructions here
+
 ### To Do List
 
 ---
